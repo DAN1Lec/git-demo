@@ -1,5 +1,6 @@
 1 stroka
 2 stroka
-
 3 str
 4 str
+5 strong new
+66 new with GIT
